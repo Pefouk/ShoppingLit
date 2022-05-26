@@ -1,6 +1,6 @@
 # ShoppingLit
   
-Self hosted shopping list based on [Symfony Docker](https://github.com/dunglas/symfony-docker) images files  
+Self hosted shopping list based on [Symfony Docker](https://github.com/dunglas/symfony-docker) docker files  
   
 ![CI](https://github.com/dunglas/symfony-docker/workflows/CI/badge.svg)
 
